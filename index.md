@@ -11,7 +11,7 @@ date: 2023-10-01
 ## 实验截图
 
 ### 图像展示
-![服务器状态监控](asset/chinese_calligraphy.jpg)
+![服务器状态监控](asset/Comfy_00002_.png)
 
 ---
 
@@ -19,7 +19,7 @@ date: 2023-10-01
 
 ### 操作流程演示
 <video controls width="100%">
-  <source src="./videos/demo.mp4" type="video/mp4">
+  <source src="asset/AnimateDiff_00288.mp4" type="video/mp4">
   您的浏览器不支持视频标签，请直接下载视频：
   <a href="./videos/demo.mp4">下载MP4</a>
 </video>
