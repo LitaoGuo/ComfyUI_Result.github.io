@@ -21,7 +21,7 @@ date: 2023-10-01
 <video controls width="100%">
   <source src="asset/AnimateDiff_00288.mp4" type="video/mp4">
   您的浏览器不支持视频标签，请直接下载视频：
-  <a href="./videos/demo.mp4">下载MP4</a>
+  <a href="asset/AnimateDiff_00288.mp4">下载MP4</a>
 </video>
 
 ---
