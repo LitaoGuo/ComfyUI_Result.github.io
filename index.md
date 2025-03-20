@@ -11,7 +11,7 @@ date: 2023-10-01
 ## 实验截图
 
 ### 图像展示
-![服务器状态监控](outputs/images/chinese_calligraphy.jpg)
+![服务器状态监控](asset/chinese_calligraphy.jpg)
 
 ---
 
