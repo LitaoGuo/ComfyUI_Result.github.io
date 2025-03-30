@@ -7,7 +7,7 @@ title: Ours with gpt4o
 ---
 
 # Instruction
-Generate an image of a mountain landscape with snow-capped peaks and a river flowing below. The result should be a high-quality image.
+Generate an image of a beach at sunset with waves gently crashing on the shore. The result should be a high-quality image.
 ## Ours
 ![001](asset_comp/1.png)
 ## GPT-4o
