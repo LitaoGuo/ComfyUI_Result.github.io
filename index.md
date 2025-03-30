@@ -11,9 +11,9 @@ date: 2023-10-01
 # Instruction
 Generate an image of a mountain landscape with snow-capped peaks and a river flowing below. The result should be a high-quality image.
 ## Ours
-![001](asset_comp\1.png)
+![001](asset_comp/1.png)
 ## GPT-4o
-![001](asset_comp\1o.png)
+![001](asset_comp/1o.png)
 
 
 # 55
