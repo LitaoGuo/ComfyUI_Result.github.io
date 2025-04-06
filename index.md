@@ -276,7 +276,7 @@ title: Ours with gpt4o
 ## Reference
 ![001](asset_resource_2/icecream_2.jpg)
 ## Ours
-![001](asset_comp_2/d23.png)
+![001](asset_comp_2/d23_3.png)
 ## GPT-4o
 ![001](asset_comp_2/d23o.png)
 
@@ -359,7 +359,7 @@ title: Ours with gpt4o
 ## Ours
 ![001](asset_comp_2/d34.png)
 ## GPT-4o
-![001](asset_comp_1/161o.jpg)
+![001](asset_comp_1/d34o.png)
 
 ---
 
